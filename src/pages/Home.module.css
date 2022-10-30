@@ -1,0 +1,47 @@
+.geral {
+    display: flex;
+    margin-top: 10px;
+    max-width: 100%;
+}
+
+.categoria {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    width: 300px;
+}
+
+.search {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.formInput {
+    display: flex;
+    width: 350px;
+    margin: auto;
+}
+
+.products {
+    width: 250px;
+    height: 460px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    border: 1px solid green;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #F7FFE0;
+}
+
+.title {
+    height: 70px;
+}
+
+.img {
+    width: 150px;
+}
+
+.categButon {
+    border-radius: 15px 0;
+}
