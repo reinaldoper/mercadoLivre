@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 ### `Rodar a aplicação`
 </br>
-- https://jade-trifle-9cc2b8.netlify.app/
+ https://jade-trifle-9cc2b8.netlify.app/
 
 ### `npm start`
 
