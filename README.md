@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### `Rodar a aplicação`
+</br>
+- https://jade-trifle-9cc2b8.netlify.app/
 
 ### `npm start`
 
@@ -17,9 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### `imagem de uma das telas de pesquisa:`
 <img src="src/mercado.png" alt="image"/>
 </br>
-### `npm install`
-</br>
-- https://jade-trifle-9cc2b8.netlify.app/
 
 ### `npm run build` fails to minify
 
