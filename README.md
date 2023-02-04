@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - Baixar as dependencias do projeto
 
 ### `imagem de uma das telas de pesquisa:`
-<img src="mercado.png" alt="image"/>
+<img src="src/mercado.png" alt="image"/>
 
 
 ### `npm run build` fails to minify
