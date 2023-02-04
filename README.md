@@ -17,7 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### `imagem de uma das telas de pesquisa:`
 <img src="src/mercado.png" alt="image"/>
 ### `Rodar a aplicação:`
-</br>
 - https://jade-trifle-9cc2b8.netlify.app/
 
 ### `npm run build` fails to minify
