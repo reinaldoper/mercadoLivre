@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## PROJETO REALIZADO EM GRUPO, ONDE PODEMOS TER UMA EXPERIÊNCIA REAL DE CONSTRUÇÃO MERGIANDO OS COMMITS
+- `Projeto realizado enquanto estudante da Trybe`
 
 In the project directory, you can run:
 ### `Rodar a aplicação`
