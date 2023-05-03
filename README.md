@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - `Projeto realizado enquanto estudante da Trybe`
 
 In the project directory, you can run:
-### `Rodar a aplicação`
+# 🛠️ Abrir e rodar o projeto
 </br>
  https://jade-trifle-9cc2b8.netlify.app/
 
